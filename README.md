@@ -9,7 +9,7 @@ I've taken a bunch of CS courses at CMU. There are a lot of people switching fro
 
 _21 Fall_
 - [15-513: Introduction to Computer Systems](15-513.md)
-- 17-514: Principles of Software Construction
+- [17-514: Principles of Software Construction](17-514.md)
 
 _22 Spring_
 - 10-601: Introduction to Machine Learning
