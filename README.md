@@ -13,7 +13,7 @@ _21 Fall_
 
 _22 Spring_
 - [10-601: Introduction to Machine Learning](10-601.md)
-- 15-640: Distributed Systems
+- [15-640: Distributed Systems](15-640.md)
 
 _22 Fall_
 - 15-641: Networking and the Internet
