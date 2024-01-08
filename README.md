@@ -12,7 +12,7 @@ _21 Fall_
 - [17-514: Principles of Software Construction](17-514.md)
 
 _22 Spring_
-- 10-601: Introduction to Machine Learning
+- [10-601: Introduction to Machine Learning](10-601.md)
 - 15-640: Distributed Systems
 
 _22 Fall_
