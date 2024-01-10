@@ -13,11 +13,11 @@ _21 Fall_
 
 _22 Spring_
 - [10-601: Introduction to Machine Learning](10-601.md)
-- [15-640: Distributed Systems](15-640.md)
+- [15-640: Distributed Systems](15-640(Spring).md)
 
 _22 Fall_
 - [15-641: Networking and the Internet](15-641.md)
-- 15-640: Distributed Systems (TA)
+- [15-640: Distributed Systems (TA)](15-640(Fall).md)
 
 _23 Spring_
 - 15-645: Database Systems
