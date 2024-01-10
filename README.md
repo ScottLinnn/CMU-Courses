@@ -16,7 +16,7 @@ _22 Spring_
 - [15-640: Distributed Systems](15-640.md)
 
 _22 Fall_
-- 15-641: Networking and the Internet
+- [15-641: Networking and the Internet](15-641.md)
 - 15-640: Distributed Systems (TA)
 
 _23 Spring_
