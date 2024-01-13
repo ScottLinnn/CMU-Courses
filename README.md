@@ -26,3 +26,8 @@ _23 Fall_
 - 15-821: Mobile and Pervasive Computing
 - 15-746: Storage Systems
 - 15-712: Advanced and Distributed Operating Systems
+
+_24 Spring_
+- 15-721: Advanced Database Systems
+- 11-642: Search Engines
+- 11-868: Large Language Model Systems
