@@ -29,5 +29,6 @@ _23 Fall_
 
 _24 Spring_
 - 15-721: Advanced Database Systems
-- 11-642: Search Engines
+- 11-711: Advanced NLP
+- 15*642: Machine Learning Systems
 - 11-868: Large Language Model Systems
