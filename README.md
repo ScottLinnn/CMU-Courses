@@ -32,3 +32,4 @@ _24 Spring_
 - 11-711: Advanced NLP
 - 15-642: Machine Learning Systems
 - 11-868: Large Language Model Systems
+- 10-623: Generative AI
